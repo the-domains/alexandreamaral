@@ -1,0 +1,30 @@
+color:
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+  brandStrength: 0.5035961561370641
+  lightness: 0.8971025147475302
+  saturation: 0.7564636224415153
+  rhythmicContrast: 0.12085298541933298
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: alexandreamaral
+layout_spectrum: 0.3261174301151186
+typography_spectrum: 0.8899852293543518
+content: []
+title: alexandreamaral
+description: photography and software education
+github: true
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/f88d4dc0-25a5-4b8b-b87b-c558e7989916.png
+author:
+  name: Alexandre Amaral
+  email: alexandreamaral.click@gmail.com
