@@ -26,9 +26,6 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 navigation:
-  - name: portfolio
-    id: 8bdc2aa3-fe6c-4b13-a291-8e3e17e6d09c
-    type: content
   - name: Quem sou
     id: 686349e0-baf9-400b-8d2c-48d52e486696
     type: content
