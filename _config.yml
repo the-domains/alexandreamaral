@@ -1,3 +1,5 @@
+layout_spectrum: 0.17839197623663317
+typography_spectrum: 0.91911587577931
 color:
   brandColors:
     - '#FFFFFF'
@@ -5,10 +7,10 @@ color:
     - '#999999'
     - '#4D4D4D'
     - '#333333'
-  brandStrength: 0.5035961561370641
-  lightness: 0.8971025147475302
-  saturation: 0.7564636224415153
-  rhythmicContrast: 0.12085298541933298
+  brandStrength: 0.507756010813657
+  lightness: 0.1917217447759934
+  saturation: 0.7537402832848342
+  rhythmicContrast: 0.12605183025582298
 colors:
   brandColors:
     - 'hsl(0,0%,100%)'
@@ -17,8 +19,6 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 name: alexandreamaral
-layout_spectrum: 0.3261174301151186
-typography_spectrum: 0.8899852293543518
 content: []
 title: alexandreamaral
 description: photography and software education
